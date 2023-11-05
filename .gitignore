@@ -1,0 +1,10 @@
+/.idea/
+/assets/
+/tests/
+
+sotw.log
+eotw.log
+
+mineage-hcf.exe
+config.toml
+knockback.toml
